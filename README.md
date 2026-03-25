@@ -1,4 +1,4 @@
-Gabriel Cunha, 15 anos, estudante da Escola Heitor Penteado em Americana, cursando Técnico em TIC, com foco em desenvolvimento de habilidades na área de Tecnologia da Informação.
+Gabriel Cunha, 15 anos, estudante da Escola Heitor Penteado em Americana, cursando Técnico em TI, com foco em desenvolvimento de habilidades na área de Tecnologia da Informação.
 
 💻 Conhecimentos em informática básica pelo SENAC, incluindo Excel, Word e ferramentas essenciais do dia a dia.
 
